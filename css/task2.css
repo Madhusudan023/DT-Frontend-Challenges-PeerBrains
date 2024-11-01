@@ -1,0 +1,44 @@
+*{
+  font-family: "Poppins";
+}
+
+h2{
+ color:  blue;
+}
+.project-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.task {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+.asset {
+  margin-top: 10px;
+  border: 1px solid #eee;
+  padding: 5px;
+}
+iframe {
+  display: block;
+  margin-top: 10px;
+}
+
+img{
+height: 30rem;
+width: 100%;
+
+}
+
+button{
+  position:absolute;
+  right: 19rem;
+  height: 50px;
+  width: 100px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  font-size: 1rem;
+  border: 1px solid black;
+}
+
